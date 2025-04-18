@@ -1,5 +1,7 @@
 # Nvim CQL
 
+[🇺🇸 English](README.md) | [🇯🇵 日本語](README_jap.md)
+
 ---------------------------
 
 **Open Source** tree-sitter grammar for **CQL** (Cassandra Query Language) ^_^.
